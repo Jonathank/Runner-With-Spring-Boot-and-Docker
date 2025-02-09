@@ -1,0 +1,53 @@
+{
+"runs" :
+[
+  {
+    "id": 1,
+    "title": "FirstRun",
+    "startedOn": "2025-02-05T12:00:00",
+    "completedOn": "2025-02-05T13:00:00",
+    "miles": 5,
+    "location": "OUTDOOR"
+  },
+  {
+    "id": 2,
+    "title": "MorningWalk",
+    "startedOn": "2025-02-05T06:30:00",
+    "completedOn": "2025-02-05T07:30:00",
+    "miles": 4,
+    "location": "OUTDOOR"
+  },
+  {
+    "id": 3,
+    "title": "LunchBreak",
+    "startedOn": "2025-02-05T13:00:00",
+    "completedOn": "2025-02-05T14:00:00",
+    "miles": 3,
+    "location": "INDOOR"
+  },
+  {
+    "id": 4,
+    "title": "EveningRun",
+    "startedOn": "2025-02-05T18:00:00",
+    "completedOn": "2025-02-05T19:00:00",
+    "miles": 5,
+    "location": "OUTDOOR"
+  },
+  {
+    "id": 5,
+    "title": "WorkoutSession",
+    "startedOn": "2025-02-05T07:00:00",
+    "completedOn": "2025-02-05T08:00:00",
+    "miles": 4,
+    "location": "INDOOR"
+  },
+  {
+    "id": 6,
+    "title": "OfficeMeeting",
+    "startedOn": "2025-02-05T10:00:00",
+    "completedOn": "2025-02-05T11:00:00",
+    "miles": 2,
+    "location": "INDOOR"
+  }
+]
+}
